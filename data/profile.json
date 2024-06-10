@@ -1,0 +1,91 @@
+{
+    "name": "Leandro Jales",
+    "photo": "https://avatars.githubusercontent.com/u/140167270?v=4",
+    "job": "Coordenador de Informações Gerenciais",
+    "location": "Rio de Janeiro - RJ",
+    "phone": "(21) 98393-0680",
+    "email": "desenvolvedorjales@yahoo.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/leandrojales2/portifolio-profissional/main/data/imgs/html.png",
+          "url": "https://www.dio.me/certificate/D18F7FB2"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/leandrojales2/portifolio-profissional/main/data/imgs/css.png",
+          "url": "https://www.dio.me/certificate/RFABR9PL"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/leandrojales2/portifolio-profissional/main/data/imgs/javascript.png",
+          "url": "https://www.dio.me/certificate/1BX1O3ES"
+        },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/leandrojales2/portifolio-profissional/main/data/imgs/python.png",
+          "url": ""
+        },
+        {
+          "name": "Power BI",
+          "logo": "https://raw.githubusercontent.com/leandrojales2/portifolio-profissional/main/data/imgs/powerBI.png",
+          "url": "https://alunos.empowerdata.com.br/certificates/QJrB4e"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/leandrojales2/js-developer-pokedex",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/leandrojales2/portifolio-profissional",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de um Sistema Bancário em Python",
+        "url": "https://github.com/leandrojales2/sistema_bancario-poo",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de um Menu Bancário em Python",
+        "url": "https://github.com/leandrojales2/menu-bancario",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para clonar o site da HBO MAX com HTML e CSS",
+        "url": "https://github.com/leandrojales2/hbomax",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Coordenador de Sistemas de Informaçãoes Gerenciais / Grande Rio Alimentos",
+        "period": "2016 - até o momento",
+        "description": "Responsável pela elaboração de Relatórios e Dashboards, em Excel com automatizações utilizando VBA, e criação e análise de base de dados do CRM da empresa"
+      },
+      {
+        "name": "Coordenador de Administração de Vendas / Grande Rio Alimentos",
+        "period": "2018 - 2020",
+        "description": "Responsável pelo apuração e pagamento de comissão de vendas, responsável pela análise de pedidos de vendas em sistema. Ponto focal de vendedores, representantes comerciais e gerentes comerciais, junto ao setor de logística; - Construção de visões gerenciais na ferramenta Excel para a Gerênca geral e Diretoria"
+      },
+      {
+        "name": "Coordenador de Logística / Grande Rio Alimentos",
+        "period": "2014 - 2016",
+        "description": " Responsável pela criação do Sistema de Gestão de Transportes em Access com automatizações com VBA e SQL, voltado para gestão e análise de Abastecimento, peças, mão de obra, e entrada e saída de veículos da empresa; - Construção de visões gerenciais na ferramenta Excel. Responságel pela gestão de Motoristas e Ajudantes"
+      }
+    ]
+  }
