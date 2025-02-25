@@ -69,6 +69,11 @@
         "name": "Curso Ministrado na DIO para clonar o site da HBO MAX com HTML e CSS",
         "url": "https://github.com/leandrojales2/hbomax",
         "github": true
+      },
+      {
+        "name": "Curso Ministrado no DevClub para criar um site para encanadores com base no Super Mário",
+        "url": "https://leandrojales2.github.io/site-mario/",
+        "github": true
       }
     ],
     "professionalExperience": [
